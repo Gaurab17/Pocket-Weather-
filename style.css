@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+    font-size: 36px;
+    color: rgb(15, 15, 15);
+}
+
+.search{
+    color: rgb(15, 15, 15);
+    display: block;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+.search input{
+    height: 34px;
+    width: 300px;
+}
+
+input[type=text],
+input[type=text]:focus{
+    color: rgb(68, 55, 55);
+    padding-left: 10px;
+    border: 0.1px solid black;
+    background-color: rgba(128, 123, 123, 0.2);
+    max-width: 400px;
+}
+
+.data{
+    display: block;
+    text-align: center;
+} 
+
+.data h4{
+    padding: 0.3rem;
+    font-size: 22px;
+}
+
+.data h2{
+    padding: 0.1rem;
+    font-size: 24px;
+}
+
+.result{
+    display: none;
+}
+
+img{
+    object-fit: cover;
+}
