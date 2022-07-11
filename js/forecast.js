@@ -1,4 +1,4 @@
-const key = 'zFqUAuWFvOVenf5YjLP5GM1nxSh4GOTI';
+const key = '7GjrZJn9ViFFro8nBoLf4jt8OHFBGj53';
 const searchCity = document.querySelector('.search');
 const cityName = document.querySelector('.city_name');
 const weatherCondition = document.querySelector('.weather_condition');
